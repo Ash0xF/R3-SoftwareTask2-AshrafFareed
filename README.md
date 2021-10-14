@@ -3,7 +3,7 @@
 
 # Python Client to Server Communication for Keyboard Inputs
 
-This project was made using Python with primarily the 'socket' and 'pynput' libraries. The purpose of this project was to create a Rover which recieves inputs that control its motors from the client side.
+This project was made using Python with primarily the 'socket' and 'pynput' libraries. The purpose of this project was to create a Rover which receives inputs that control its motors from the client side.
 
 The socket library (used in both scripts)was used to create the communication from the client (keyboard inputs) to the server (Rover/output), in which the client would input keystrokes and would encode the bytes using 'UTF-8' to send to the server to be decoded and would interpret the instructions. 
 
