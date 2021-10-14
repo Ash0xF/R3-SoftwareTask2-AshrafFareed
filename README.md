@@ -16,6 +16,6 @@ The pynput library used in the client script, where the 'Listener' creates a thr
 
 ## Known Issues with Socket Program
 
-**CURRENTLY THERE WAS NONE, PLEASE CONTACT IF YOU FIND ANY**
+**CURRENTLY THERE ARE NONE, PLEASE CONTACT IF YOU FIND ANY**
 
 
